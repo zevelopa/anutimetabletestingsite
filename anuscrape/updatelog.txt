@@ -1,0 +1,13 @@
+Scraping failed at Mi, 19. Feb 2020 23:16:33
+Scraping failed at Mi, 19. Feb 2020 23:17:20
+Scraping failed at Sun 23 Feb 2020 10:37:32 AEDT
+Scraping failed at Sun 23 Feb 2020 10:38:09 AEDT
+Scraping failed at Sun 23 Feb 2020 10:40:18 AEDT
+New update found at Sun 23 Feb 2020 11:08:53 AEDT
+Scraping failed at Sun 23 Feb 2020 11:40:19 AEDT
+No changes on Sun 23 Feb 2020 11:43:01 AEDT
+Scraping failed at Fri 31 Jul 2020 09:58:54 AEST
+New update found at Sat Feb 13 10:46:14 UTC 2021
+No changes on Sun 14 Feb 2021 03:45:43 AM PST
+No changes on Sun 14 Feb 2021 03:49:16 AM PST
+No changes on Sun 14 Feb 2021 04:03:16 AM PST
